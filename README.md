@@ -37,6 +37,6 @@ If you have an idea or a project, let's connect and bring it to life!
 
 **Engineering Connected Possibilities.**
 
-<a href="https://www.credly.com/badges/edd92527-266a-4228-b31d-9758cc306986/public_url" target="_blank">
+<a href="https://www.credly.com/badges/15b3bca2-ac38-45d7-b755-e3acef6cd325/public_url" target="_blank">
   <img src="images/zephyr-technical-contributor.png" alt="Zephyr Technical Contributor" width="200"/>
 </a>
